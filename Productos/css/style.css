@@ -1,0 +1,50 @@
+body {
+    background-color: rgba(39, 50, 56, 255);
+    color: white;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+p {
+    color: #B7CCD7;
+}
+
+h1 {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 80px;
+    font-weight: 100;
+    text-align: center;
+    color: #698593;
+    background-color: white;
+}
+
+h2 {
+    font-family: Arial, Gadget, sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 1000;
+}
+
+img {
+    margin-left: 45px;
+}
+
+.aspiradoras {
+    border: solid 4px #E6CBBF;
+    
+}
+
+.celulares {
+    border: solid 4px #a1c1cb;
+}
+
+.consolas {
+    border: solid 4px #bcbdbf;
+}
+
+.home {
+    border: solid 4px #8d94a1;
+}
+
+.televisores {
+    border: solid 4px #b2b2aa;
+}

@@ -1,0 +1,41 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.encabezado{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+h1{
+    color: #BA5498;
+    letter-spacing: 20px;
+    width: 100;
+    text-align: center;
+}
+h2{
+    color: #BA5498;
+    letter-spacing: 12px;
+    width: 100;
+}
+.popkingdom{
+    float: right;
+    width: 500px;
+    margin-left: 1%;
+}
+.p1-3{
+    color: #5472B2;
+    text-align: left;
+    font-size: 15.7px;
+}
+.hotel{
+    float: left;
+    width: 500px;
+    margin-right: 1%;
+}
+.p2{
+    color: #5472B2;
+    font-size: 15.7px;
+}
+.mouse{
+    width: 100%;
+}

@@ -1,0 +1,13 @@
+body{
+    background-color: #299688;
+    text-align: center;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #FCEA3D;
+    font-size: 58px;
+}
+.marco{
+    border: 10px white solid;
+    margin: 4px;
+}
